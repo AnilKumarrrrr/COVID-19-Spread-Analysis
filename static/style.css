@@ -1,0 +1,57 @@
+/* Set the font family and size for the entire page */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Set the background color for the entire page */
+body {
+  background-color: #f2f2f2;
+}
+
+/* Center the header */
+.header {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Style the h1 tag */
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* Style the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table th {
+  background-color: #333;
+  color: #fff;
+  text-align: left;
+  padding: 10px;
+}
+
+table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+/* Style the button */
+.button {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.button:hover {
+  background-color: #444;
+}
